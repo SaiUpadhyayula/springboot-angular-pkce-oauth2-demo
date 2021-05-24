@@ -1,4 +1,4 @@
-#Spring Boot Angular Keycloak Oauth2 PKCE Example
+# Spring Boot Angular Keycloak Oauth2 PKCE Example
 
 This repository contains source code to demonstrate how to implement Authorization Code Flow (PKCE) using Spring Boot, Angular and Keycloak.
 
